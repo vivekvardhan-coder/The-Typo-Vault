@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "name": "Loki",
+        "title": "Mischief of Misspells",
+        "isAdmin": false
+    },
+    {
+        "id": "2",
+        "name": "Praneeth",
+        "title": "Typo Tsunami",
+        "isAdmin": false
+    },
+    {
+        "id": "3",
+        "name": "Bittu",
+        "title": "Typo Warrior",
+        "isAdmin": false
+    },
+    {
+        "id": "4",
+        "name": "Sherlock",
+        "title": "Detective of Disaster Spelling",
+        "isAdmin": false
+    },
+    {
+        "id": "5",
+        "name": "Venu",
+        "title": "Silent Slipper",
+        "isAdmin": false
+    },
+    {
+        "id": "6",
+        "name": "Rajesh",
+        "title": "Casual Chaos Commander",
+        "isAdmin": false
+    },
+    {
+        "id": "7",
+        "name": "Vivek",
+        "title": "The Vault Keeper (Admin)",
+        "isAdmin": true
+    },
+    {
+        "id": "8",
+        "name": "Goutham",
+        "title": "Chief Typo Officer (CTO)",
+        "isAdmin": false
+    },
+    {
+        "id": "9",
+        "name": "Prabath",
+        "title": "Typo Whisperer",
+        "isAdmin": false
+    },
+    {
+        "id": "10",
+        "name": "Teja",
+        "title": "Sudden Slayer",
+        "isAdmin": false
+    },
+    {
+        "id": "11",
+        "name": "Bugga",
+        "title": "Minor Mayhem Maker",
+        "isAdmin": false
+    },
+    {
+        "id": "12",
+        "name": "Guneeth",
+        "title": "Accidental Artist",
+        "isAdmin": false
+    },
+    {
+        "id": "13",
+        "name": "Santhosh",
+        "title": "Typo Lurker",
+        "isAdmin": false
+    },
+    {
+        "id": "14",
+        "name": "Uday",
+        "title": "One-Liner Oops Master",
+        "isAdmin": false
+    },
+    {
+        "id": "15",
+        "name": "Abhishek",
+        "title": "Grammar Gambler",
+        "isAdmin": false
+    },
+    {
+        "id": "16",
+        "name": "Sanjay",
+        "title": "Text Tornado Jr.",
+        "isAdmin": false
+    },
+    {
+        "id": "17",
+        "name": "Likith",
+        "title": "Linguistic Looper",
+        "isAdmin": false
+    },
+    {
+        "id": "18",
+        "name": "Dharma",
+        "title": "Silent Observer",
+        "isAdmin": false
+    },
+    {
+        "id": "19",
+        "name": "Madhu",
+        "title": "The Untyped Monk",
+        "isAdmin": false
+    },
+    {
+        "id": "20",
+        "name": "Vinod",
+        "title": "Shadow Speaker",
+        "isAdmin": false
+    }
+]

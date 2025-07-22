@@ -1,0 +1,1001 @@
+[
+  {
+    "id": "1",
+    "wrongWord": "recieve",
+    "correctWord": "receive",
+    "person": "Goutham",
+    "context": "In email about meeting",
+    "timestamp": "2024-01-15T10:30:00Z",
+    "addedBy": "Vivek"
+  },
+  {
+    "id": "2",
+    "wrongWord": "definately",
+    "correctWord": "definitely",
+    "person": "Sanjay",
+    "context": "Chat message",
+    "timestamp": "2024-01-14T15:22:00Z",
+    "addedBy": "Sherlock"
+  },
+  {
+    "id": "3",
+    "wrongWord": "seperate",
+    "correctWord": "separate",
+    "person": "Bittu",
+    "context": "Project documentation",
+    "timestamp": "2024-01-13T09:15:00Z",
+    "addedBy": "Loki"
+  },
+  {
+    "id": "4",
+    "wrongWord": "occured",
+    "correctWord": "occurred",
+    "person": "Rajesh",
+    "context": "Bug report",
+    "timestamp": "2024-01-12T14:45:00Z",
+    "addedBy": "Praneeth"
+  },
+  {
+    "id": "5",
+    "wrongWord": "neccessary",
+    "correctWord": "necessary",
+    "person": "Guneeth",
+    "context": "Code review comment",
+    "timestamp": "2024-01-11T11:20:00Z",
+    "addedBy": "Vivek"
+  },
+  {
+      "id": "6",
+      "wrongWord": "transforum",
+      "correctWord": "Transformer",
+      "person": "bittu",
+      "context": null,
+      "timestamp": "2024-01-11T11:21:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "7",
+      "wrongWord": "posta house",
+      "correctWord": "Pista house",
+      "person": "bittu",
+      "context": null,
+      "timestamp": "2024-01-11T11:22:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "8",
+      "wrongWord": "manjulam boys",
+      "correctWord": "Manjumal boys",
+      "person": "sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T11:23:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "9",
+      "wrongWord": "kidneylu Ela unaru",
+      "correctWord": "Kidneylu Ela unei",
+      "person": "praneeth",
+      "context": null,
+      "timestamp": "2024-01-11T11:24:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "10",
+      "wrongWord": "madam pitti",
+      "correctWord": "Marum pitti",
+      "person": "sanjay",
+      "context": null,
+      "timestamp": "2024-01-11T11:25:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "11",
+      "wrongWord": "eli mundra",
+      "correctWord": "Eli mudhra",
+      "person": "sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T11:26:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "12",
+      "wrongWord": "Happy Birthday party",
+      "correctWord": "Birthday party",
+      "person": "prabhath",
+      "context": null,
+      "timestamp": "2024-01-11T11:27:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "13",
+      "wrongWord": "Boubt",
+      "correctWord": "Doubt",
+      "person": "abishek",
+      "context": null,
+      "timestamp": "2024-01-11T11:28:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "14",
+      "wrongWord": "Jonar",
+      "correctWord": "Genre",
+      "person": "sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T11:29:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "15",
+      "wrongWord": "walkings",
+      "correctWord": "Foot steps",
+      "person": "bittu",
+      "context": null,
+      "timestamp": "2024-01-11T11:30:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "16",
+      "wrongWord": "kaalu pokutha, kaalu polutha",
+      "correctWord": "kaalu mokutha",
+      "person": "venu",
+      "context": null,
+      "timestamp": "2024-01-11T11:31:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "17",
+      "wrongWord": "andhamaila bhamalu",
+      "correctWord": "Andhamaina bhamalu",
+      "person": "sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T11:32:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "18",
+      "wrongWord": "petrol",
+      "correctWord": "Petrol",
+      "person": "sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T11:33:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "19",
+      "wrongWord": "nalla madda Reddy",
+      "correctWord": "Nalla malla reddy",
+      "person": "abishek",
+      "context": null,
+      "timestamp": "2024-01-11T11:34:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "20",
+      "wrongWord": "dewar ne bhabhi ko chedha",
+      "correctWord": "Dewar ne bhabi ko chodha",
+      "person": "sanjay",
+      "context": null,
+      "timestamp": "2024-01-11T11:35:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "21",
+      "wrongWord": "Bonda, Bunda",
+      "correctWord": "Boondi",
+      "person": "praneeth",
+      "context": null,
+      "timestamp": "2024-01-11T11:36:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "22",
+      "wrongWord": "Tricking",
+      "correctWord": "Trecking",
+      "person": "sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T11:37:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "23",
+      "wrongWord": "Faat",
+      "correctWord": "Fast",
+      "person": "venu",
+      "context": null,
+      "timestamp": "2024-01-11T11:38:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "24",
+      "wrongWord": "Ling",
+      "correctWord": "Ping",
+      "person": "praneeth",
+      "context": null,
+      "timestamp": "2024-01-11T11:39:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "25",
+      "wrongWord": "anthagiri hills",
+      "correctWord": "Ananthagiri hills",
+      "person": null,
+      "context": null,
+      "timestamp": "2024-01-11T11:40:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "26",
+      "wrongWord": "Racist",
+      "correctWord": "Racist",
+      "person": "Goutham",
+      "context": null,
+      "timestamp": "2024-01-11T11:41:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "27",
+      "wrongWord": "Notlo kodda",
+      "correctWord": "Notlo modda",
+      "person": "Goutham",
+      "context": null,
+      "timestamp": "2024-01-11T11:42:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "28",
+      "wrongWord": "Murgh Musamil",
+      "correctWord": "Murgh musallam",
+      "person": "Sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T11:43:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "29",
+      "wrongWord": "Bitla",
+      "correctWord": "Bitlu",
+      "person": "bittu",
+      "context": null,
+      "timestamp": "2024-01-11T11:44:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "30",
+      "wrongWord": "Upadate",
+      "correctWord": "Update",
+      "person": "sanjay",
+      "context": null,
+      "timestamp": "2024-01-11T11:45:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "31",
+      "wrongWord": "Jai babba",
+      "correctWord": "Jai Bhavani",
+      "person": "bittu",
+      "context": null,
+      "timestamp": "2024-01-11T11:46:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "32",
+      "wrongWord": "water deposit",
+      "correctWord": "Water deposit",
+      "person": "sanjay",
+      "context": null,
+      "timestamp": "2024-01-11T11:47:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "33",
+      "wrongWord": "Gogle",
+      "correctWord": "Google",
+      "person": "loki",
+      "context": null,
+      "timestamp": "2024-01-11T11:48:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "34",
+      "wrongWord": "answers pampu",
+      "correctWord": "Answers pampu",
+      "person": "loki",
+      "context": null,
+      "timestamp": "2024-01-11T11:49:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "35",
+      "wrongWord": "kannaka",
+      "correctWord": "Kannapa",
+      "person": "venu",
+      "context": null,
+      "timestamp": "2024-01-11T11:50:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "36",
+      "wrongWord": "lanka",
+      "correctWord": "Lanja",
+      "person": "teja",
+      "context": null,
+      "timestamp": "2024-01-11T11:51:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "37",
+      "wrongWord": "ata",
+      "correctWord": "Anta",
+      "person": "sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T11:52:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "38",
+      "wrongWord": "Loki",
+      "correctWord": "Loki",
+      "person": "sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T11:53:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "39",
+      "wrongWord": "Bave",
+      "correctWord": "Have",
+      "person": "rajesh",
+      "context": null,
+      "timestamp": "2024-01-11T11:54:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "40",
+      "wrongWord": "thank you for introducing me",
+      "correctWord": "Thank you for giving me this opportunity",
+      "person": "loki",
+      "context": null,
+      "timestamp": "2024-01-11T11:55:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "41",
+      "wrongWord": "110(one not ten)",
+      "correctWord": "110( one ten)",
+      "person": "sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T11:56:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "42",
+      "wrongWord": "Sink",
+      "correctWord": "Sync",
+      "person": "sanjay",
+      "context": null,
+      "timestamp": "2024-01-11T11:57:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "43",
+      "wrongWord": "worng",
+      "correctWord": "Wrong",
+      "person": "sanjay",
+      "context": null,
+      "timestamp": "2024-01-11T11:58:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "44",
+      "wrongWord": "Elada",
+      "correctWord": "Ekada",
+      "person": "abishek",
+      "context": null,
+      "timestamp": "2024-01-11T11:59:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "45",
+      "wrongWord": "Loja",
+      "correctWord": "Koja",
+      "person": "praneeth",
+      "context": null,
+      "timestamp": "2024-01-11T12:00:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "46",
+      "wrongWord": "Daranaga",
+      "correctWord": "Dharananga",
+      "person": "sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T12:01:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "47",
+      "wrongWord": "Amoung us",
+      "correctWord": "Among us",
+      "person": "Sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T12:02:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "48",
+      "wrongWord": "Ilaane games",
+      "correctWord": "Elanti games",
+      "person": "sanjay",
+      "context": null,
+      "timestamp": "2024-01-11T12:03:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "49",
+      "wrongWord": "You ass gotten big",
+      "correctWord": "Your ass has gotten big",
+      "person": "Sanjay",
+      "context": null,
+      "timestamp": "2024-01-11T12:04:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "50",
+      "wrongWord": "Speeling",
+      "correctWord": "Spelling",
+      "person": "Praneeth",
+      "context": null,
+      "timestamp": "2024-01-11T12:05:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "51",
+      "wrongWord": "Weat",
+      "correctWord": "Wet",
+      "person": "Praneeth",
+      "context": null,
+      "timestamp": "2024-01-11T12:06:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "52",
+      "wrongWord": "Ration",
+      "correctWord": "Ratio",
+      "person": "Loki",
+      "context": null,
+      "timestamp": "2024-01-11T12:07:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "53",
+      "wrongWord": "Erripika",
+      "correctWord": "Erripuka",
+      "person": "Bittu",
+      "context": null,
+      "timestamp": "2024-01-11T12:08:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "54",
+      "wrongWord": "Navvu adgatledhu",
+      "correctWord": "Navvu agatledhu",
+      "person": "Sanjay",
+      "context": null,
+      "timestamp": "2024-01-11T12:09:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "55",
+      "wrongWord": "Batipoyav",
+      "correctWord": "Brathikipoyav",
+      "person": "Praneeth",
+      "context": null,
+      "timestamp": "2024-01-11T12:10:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "56",
+      "wrongWord": "Balataju",
+      "correctWord": "Balaraju",
+      "person": "Praneeth",
+      "context": null,
+      "timestamp": "2024-01-11T12:11:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "57",
+      "wrongWord": "Scam",
+      "correctWord": "Scan",
+      "person": "Sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T12:12:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "58",
+      "wrongWord": "Puja",
+      "correctWord": "Puka",
+      "person": "Sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T12:13:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "59",
+      "wrongWord": "Cheptha pukoda",
+      "correctWord": "Chetha pukoda",
+      "person": "Sanjay",
+      "context": null,
+      "timestamp": "2024-01-11T12:14:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "60",
+      "wrongWord": "Shet",
+      "correctWord": "Sher",
+      "person": "Loki",
+      "context": null,
+      "timestamp": "2024-01-11T12:15:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "61",
+      "wrongWord": "Copyright",
+      "correctWord": "KPRIT",
+      "person": "Loki",
+      "context": null,
+      "timestamp": "2024-01-11T12:16:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "62",
+      "wrongWord": "Sanam hotel",
+      "correctWord": "Sanman hotel",
+      "person": "Loki",
+      "context": null,
+      "timestamp": "2024-01-11T12:17:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "63",
+      "wrongWord": "Bugulu",
+      "correctWord": "Bigulu",
+      "person": "Rajesh",
+      "context": null,
+      "timestamp": "2024-01-11T12:18:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "64",
+      "wrongWord": "Amila reaction",
+      "correctWord": "Ammaila Reaction",
+      "person": "Rajesh",
+      "context": null,
+      "timestamp": "2024-01-11T12:19:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "65",
+      "wrongWord": "Strike rate",
+      "correctWord": "Run rate",
+      "person": "Sanjay",
+      "context": null,
+      "timestamp": "2024-01-11T12:20:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "66",
+      "wrongWord": "Vivek",
+      "correctWord": "Virat",
+      "person": "Sanjay",
+      "context": null,
+      "timestamp": "2024-01-11T12:21:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "67",
+      "wrongWord": "Biyta",
+      "correctWord": "Bayata",
+      "person": "Sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T12:22:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "68",
+      "wrongWord": "Smadda",
+      "correctWord": "Madda",
+      "person": "venu",
+      "context": null,
+      "timestamp": "2024-01-11T12:23:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "69",
+      "wrongWord": "Nani",
+      "correctWord": "Nanu",
+      "person": "sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T12:24:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "70",
+      "wrongWord": "kavva bun",
+      "correctWord": "Kova bun",
+      "person": "sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T12:25:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "71",
+      "wrongWord": "Naki",
+      "correctWord": "Naku",
+      "person": "sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T12:26:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "72",
+      "wrongWord": "I am not good in imp bit a good crew mate",
+      "correctWord": "I am not good in imp but a good crew mate",
+      "person": "Sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T12:27:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "73",
+      "wrongWord": "Sangorsh",
+      "correctWord": "Santosh",
+      "person": "bittu",
+      "context": null,
+      "timestamp": "2024-01-11T12:28:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "74",
+      "wrongWord": "Cenu",
+      "correctWord": "Venu",
+      "person": "Sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T12:29:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "75",
+      "wrongWord": "Lodala",
+      "correctWord": "Lowdala",
+      "person": "Praneeth",
+      "context": null,
+      "timestamp": "2024-01-11T12:30:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "76",
+      "wrongWord": "Crate room",
+      "correctWord": "Create room",
+      "person": "Bittu",
+      "context": null,
+      "timestamp": "2024-01-11T12:31:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "77",
+      "wrongWord": "Modda guduthav",
+      "correctWord": "Modda gudusthav",
+      "person": "Sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T12:32:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "78",
+      "wrongWord": "Bitta",
+      "correctWord": "Bittu",
+      "person": "Praneeth",
+      "context": null,
+      "timestamp": "2024-01-11T12:33:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "79",
+      "wrongWord": "Cheeta pukoda",
+      "correctWord": "Chetha pukoda",
+      "person": "Venu",
+      "context": null,
+      "timestamp": "2024-01-11T12:34:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "80",
+      "wrongWord": "Bab",
+      "correctWord": "Ban",
+      "person": "Praneeth",
+      "context": null,
+      "timestamp": "2024-01-11T12:35:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "81",
+      "wrongWord": "Na jathipukun dhenga",
+      "correctWord": "Ne jathipukun dhenga",
+      "person": "Bittu",
+      "context": null,
+      "timestamp": "2024-01-11T12:36:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "82",
+      "wrongWord": "Mottukunta",
+      "correctWord": "Mothukunta",
+      "person": "Sanjay",
+      "context": null,
+      "timestamp": "2024-01-11T12:37:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "83",
+      "wrongWord": "Bone First, Bone Fire",
+      "correctWord": "Bonfire",
+      "person": "Loki",
+      "context": null,
+      "timestamp": "2024-01-11T12:38:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "84",
+      "wrongWord": "Sad",
+      "correctWord": "Said",
+      "person": "Loki",
+      "context": null,
+      "timestamp": "2024-01-11T12:39:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "85",
+      "wrongWord": "Dhal",
+      "correctWord": "Dull",
+      "person": "loki",
+      "context": null,
+      "timestamp": "2024-01-11T12:40:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "86",
+      "wrongWord": "Daku mangal singh",
+      "correctWord": "Daku maharaj",
+      "person": "loki",
+      "context": null,
+      "timestamp": "2024-01-11T12:41:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "87",
+      "wrongWord": "Birthday part",
+      "correctWord": "Birthday party",
+      "person": "Praneeth",
+      "context": null,
+      "timestamp": "2024-01-11T12:42:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "88",
+      "wrongWord": "Brathukamma",
+      "correctWord": "Bathukamma",
+      "person": "Bittu",
+      "context": null,
+      "timestamp": "2024-01-11T12:43:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "89",
+      "wrongWord": "Bulli",
+      "correctWord": "Belly",
+      "person": "Bittu",
+      "context": null,
+      "timestamp": "2024-01-11T12:44:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "90",
+      "wrongWord": "Kidnap",
+      "correctWord": "Kidnap",
+      "person": "Praneeth",
+      "context": null,
+      "timestamp": "2024-01-11T12:45:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "91",
+      "wrongWord": "Fijadhiguda",
+      "correctWord": "Peerzadiguda",
+      "person": "Dharma",
+      "context": null,
+      "timestamp": "2024-01-11T12:46:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "92",
+      "wrongWord": "airpods",
+      "correctWord": "Airpods",
+      "person": "sanjay",
+      "context": null,
+      "timestamp": "2024-01-11T12:47:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "93",
+      "wrongWord": "pilla ra mer anta",
+      "correctWord": "Pillal ra mir antha",
+      "person": "sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T12:48:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "94",
+      "wrongWord": "Completex tasks",
+      "correctWord": "Completed tasks",
+      "person": "Rajesh",
+      "context": null,
+      "timestamp": "2024-01-11T12:49:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "95",
+      "wrongWord": "Shape shit",
+      "correctWord": "Shape shift",
+      "person": "Santosh",
+      "context": null,
+      "timestamp": "2024-01-11T12:50:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "96",
+      "wrongWord": "I will exist myself",
+      "correctWord": "I will exit myself",
+      "person": "sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T12:51:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "97",
+      "wrongWord": "RTO offline",
+      "correctWord": "RTO office",
+      "person": "Sanjay",
+      "context": null,
+      "timestamp": "2024-01-11T12:52:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "98",
+      "wrongWord": "ni guddhaki damdam",
+      "correctWord": "Ni gudhaki dhandam",
+      "person": "Sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T12:53:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "99",
+      "wrongWord": "Saher",
+      "correctWord": "Sher",
+      "person": "Abishek",
+      "context": null,
+      "timestamp": "2024-01-11T12:54:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "100",
+      "wrongWord": "Hanmaya",
+      "correctWord": "Hammaya",
+      "person": "Sanjay",
+      "context": null,
+      "timestamp": "2024-01-11T12:55:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "101",
+      "wrongWord": "Bedbay",
+      "correctWord": "Medbay",
+      "person": "bittu",
+      "context": null,
+      "timestamp": "2024-01-11T12:56:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "102",
+      "wrongWord": "Reaction",
+      "correctWord": "Reactor",
+      "person": "Sanjay",
+      "context": null,
+      "timestamp": "2024-01-11T12:57:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "103",
+      "wrongWord": "anukumtuna",
+      "correctWord": "Anukuntuna",
+      "person": "Sanjay",
+      "context": null,
+      "timestamp": "2024-01-11T12:58:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "104",
+      "wrongWord": "She",
+      "correctWord": "Sher",
+      "person": "Loki",
+      "context": null,
+      "timestamp": "2024-01-11T12:59:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "105",
+      "wrongWord": "Apadam",
+      "correctWord": "Abadam",
+      "person": "Sherlock",
+      "context": null,
+      "timestamp": "2024-01-11T13:00:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "106",
+      "wrongWord": "Mama",
+      "correctWord": "Mam",
+      "person": "bittu",
+      "context": null,
+      "timestamp": "2024-01-11T13:01:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "107",
+      "wrongWord": "Sueeeeeejitha",
+      "correctWord": "Sujatha",
+      "person": "bittu",
+      "context": null,
+      "timestamp": "2024-01-11T13:02:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "108",
+      "wrongWord": "Truth friendship",
+      "correctWord": "True friendship",
+      "person": "loki",
+      "context": null,
+      "timestamp": "2024-01-11T13:03:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "109",
+      "wrongWord": "Mal",
+      "correctWord": "Map",
+      "person": "bittu",
+      "context": null,
+      "timestamp": "2024-01-11T13:04:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "110",
+      "wrongWord": "Before post martum",
+      "correctWord": "Before post mortem",
+      "person": "vivek",
+      "context": null,
+      "timestamp": "2024-01-11T13:05:00Z",
+      "addedBy": "Vivek"
+    },
+    {
+      "id": "111",
+      "wrongWord": "Road Madeyala",
+      "correctWord": "Road madyala",
+      "person": "bittu",
+      "context": null,
+      "timestamp": "2024-01-11T13:06:00Z",
+      "addedBy": "Vivek"
+    }
+]
