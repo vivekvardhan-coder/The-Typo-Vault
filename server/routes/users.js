@@ -85,4 +85,9 @@ router.get('/leaderboard', async (req, res) => {
   }
 });
 
+const bcrypt = require('bcrypt');
+require('dotenv').config();
+
+/* Removed admin login route as per request */
+
 module.exports = router;
