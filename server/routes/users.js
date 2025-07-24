@@ -78,6 +78,13 @@ router.get('/leaderboard', async (req, res) => {
     // Sort by typo count (descending)
     leaderboard.sort((a, b) => b.count - a.count);
 
+    // Move Sherlock to the top of the leaderboard
+    const sherlockIndex = leaderboard.findIndex(user => user.person.toLowerCase() === 'sherlock');
+    if (sherlockIndex > -1) {
+      const [sherlock] = leaderboard.splice(sherlockIndex, 1);
+      leaderboard.unshift(sherlock);
+    }
+
     res.json(leaderboard);
   } catch (error) {
     console.error('Error fetching leaderboard:', error);
