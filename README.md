@@ -1,39 +1,55 @@
-# 🧠 Typo Vault - The Ultimate Spelling Shame Repository
+# 🧠 The Typo Vault  
+_The Ultimate Spelling Shame Repository_
 
-A mystical, voice-activated website for tracking and cataloging your friend group's most epic spelling failures. Built with React, Express, and a healthy dose of friendly mockery.
+[🌐 Visit Live Site](https://the-drunken-monkeys-vault.netlify.app/)  
+A mystical, voice-activated vault where spelling crimes are logged and laughed at.  
+Built with **React**, **Express**, **MongoDB**, and a touch of **friendly mockery**.
+
+---
 
 ## ✨ Features
 
 ### 🎭 Mystery Theme Experience
-- **Animated Welcome Page**: Particle effects and magical animations
-- **Voice-Based Firewall**: Speak the secret password to gain access
-- **User Identity Selection**: Choose your character with personalized greetings
-- **Dark Mystical Design**: Like a secret vault or magic spell book
+- 🌀 **Animated Welcome Page**: Particle effects and magical transitions
+- 🎙️ **Voice-Based Access**: Speak the secret password to unlock the vault
+- 🧑‍🎤 **User Identity Selection**: Pick your persona with personalized greetings
+- 🌒 **Dark Mystical UI**: Feels like a spellbook came alive
 
 ### 📝 Core Functionality
-- **Typo Logbook**: Animated list of spelling crimes with shake effects
-- **Add New Typos**: Submit new entries with context
-- **Leaderboard**: Hall of shame with fun titles and statistics
-- **Admin Controls**: Edit and delete entries (admin only)
+- 📚 **Typo Logbook**: Animated list of typos with shake effects
+- ➕ **Add New Typos**: Share new spelling crimes with context
+- 🏆 **Leaderboard**: Hall of Shame with fun titles and stats
+- 👑 **Admin Panel**: Edit/delete entries (Admin only)
 
-### 🎯 Fun Elements
-- **Achievement Titles**: "King of Typos", "Silent Killer", "Grammar Rebel"
-- **Animated UI**: Smooth transitions and micro-interactions
-- **Voice Recognition**: Browser-based speech-to-text authentication
-- **Responsive Design**: Works on all devices
+### 🎯 Fun Additions
+- 🥇 **Titles & Achievements**: “King of Typos”, “Grammar Rebel”, and more
+- 🔊 **Voice Recognition**: Powered by the Web Speech API
+- 🖥️ **Responsive Design**: Works across all devices
+
+---
+
+## 🛠️ Tech Stack
+
+- Frontend: **React**, **Tailwind CSS**, **Framer Motion**, **Lucide Icons**
+- Backend: **Node.js**, **Express.js**
+- Database: **MongoDB Atlas (Cloud)**
+- Voice Recognition: **Web Speech API**
+
+---
 
 ## 🚀 Quick Start
 
-### Prerequisites
-- Node.js (v16 or higher)
+### ✅ Prerequisites
+- Node.js (v16+)
+- MongoDB Atlas account
 - npm or yarn
 
-### Installation
+### 🧾 Installation Steps
 
-#### Prerequisites
-- Node.js (v16 or higher)
-- MongoDB Atlas account (free tier available)
-- npm or yarn
+#### 1. Clone the Repository
+```bash
+git clone <repository-url>
+cd typo-vault
 
 #### Database Setup
 1. **Create MongoDB Atlas Account**
